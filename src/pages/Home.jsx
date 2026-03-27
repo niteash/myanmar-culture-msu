@@ -14,6 +14,9 @@ const Home = () => {
           autoPlay
           muted
           loop
+          playsInline
+          preload="metadata"
+          poster="/poster.jpg"
           className="absolute w-full h-full object-cover"
         >
           <source src="/MSU.mp4" type="video/mp4" />
