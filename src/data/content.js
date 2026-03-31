@@ -188,7 +188,7 @@ This image shows traditional tools used for creating palm-leaf manuscripts (pe-s
       "These tools were part of a monk’s or scribe’s personal kit used for writing and preservation.",
     ],
     image:
-      "https://4.bp.blogspot.com/-txNwgLQ0RTQ/TvHTv9qTF4I/AAAAAAAAABs/whnrn5Ho3kM/s1600/inkpot+9.jpg",
+      "https://1.bp.blogspot.com/-hbB1ZLV-sfM/TvHSvfiEdKI/AAAAAAAAABc/hlUsHSwGc2c/s1600/inkpot+4.jpg",
     detailed_images: [
       "https://m.media-amazon.com/images/I/81mflie5J2L.jpg",
       "https://m.media-amazon.com/images/I/71sO2tp9mcL.jpg",
