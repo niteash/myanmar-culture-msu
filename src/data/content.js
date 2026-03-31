@@ -394,4 +394,184 @@ This image shows traditional tools used for creating palm-leaf manuscripts (pe-s
       "https://www.mdn.gov.mm/sites/default/files/articles/KHP_0005-72-1024x576.jpg",
     detailed_images: ["/images/young2.png", "/images/young3.png"],
   },
+
+  // ================= Leader =================
+  Mingun_Sayadaw: {
+    category: "Influential Personalities",
+    title: "Mingun Sayadaw",
+    subtitle: "Spiritual Knowledge & Extraordinary Memory",
+    highlight: "Guinness World Record holder for human memory",
+
+    description:
+      "Mingun Sayadaw, also known as Bhaddanta Vicittasara, was one of Myanmar’s most respected Buddhist monks, renowned for his extraordinary memory and deep knowledge of the Tipiṭaka. He became internationally recognized for his ability to recite extensive Buddhist scriptures from memory, symbolizing the preservation of spiritual knowledge.",
+
+    points: [
+      "Recognized by Guinness World Records in 1985 for exceptional human memory.",
+      "Successfully recited around 16,000 pages of Buddhist canonical texts from memory.",
+      "Gained recognition during a major recitation event in Rangoon (Yangon) in 1954.",
+      "Known for rare eidetic memory — the ability to recall information with high precision.",
+      "Played an important role in preserving the Tipiṭaka (Buddhist scriptures).",
+      "His achievements highlight Myanmar’s strong tradition of monastic education.",
+      "Respected as a symbol of wisdom, discipline, and dedication to learning.",
+      "Inspired generations of monks and scholars in Myanmar and beyond.",
+      "Represents the deep connection between spirituality and knowledge in Myanmar culture.",
+    ],
+
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRofOyJ8uGqsM3S6qBLHtNQEngneWniO-Uo7g&s",
+
+    detailed_images: [
+      "https://i.pinimg.com/736x/a0/49/e8/a049e8a443d703245cf5fc38891d4ac1.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-p/12/bc/13/b0/mingun-sayadaw.jpg",
+    ],
+  },
+
+  General_Aung_San: {
+    category: "Influential Personalities",
+    title: "General Aung San",
+    subtitle: "Father of Independence",
+
+    description:
+      "General Aung San is regarded as the founding father of modern Myanmar, leading the country toward independence from British rule.",
+
+    points: [
+      "Key leader in Myanmar’s independence movement.",
+      "Founder of the modern Myanmar Armed Forces.",
+      "Played a major role in negotiating independence from Britain.",
+      "Assassinated in 1947 before independence was achieved.",
+      "Remembered as a national hero and symbol of unity.",
+      "His legacy continues to influence Myanmar’s history and identity.",
+    ],
+
+    image:
+      "https://i0.wp.com/rohingyakhobor.com/wp-content/uploads/2024/08/Aung-San.jpg?fit=286%2C176&ssl=1",
+    detailed_images: [
+      "https://upload.wikimedia.org/wikipedia/commons/b/bc/Aung_San_color_portrait.jpg",
+      "https://media.cnn.com/api/v1/images/stellar/prod/210201135601-02-aung-san-suu-kyi-gallery-restricted.jpg?q=w_1576,c_fill",
+      "https://www.lowyinstitute.org/sites/default/files/General_Aung_San_cropped.jpg",
+    ],
+  },
+
+  Nine_Martyrs: {
+    category: "Influential Personalities",
+    title: "Nine Martyrs",
+    subtitle: "Heroes of Independence",
+
+    description:
+      "The Nine Martyrs were national leaders who were assassinated alongside General Aung San in 1947 while working toward Myanmar’s independence.",
+
+    points: [
+      "Killed on 19 July 1947 during a cabinet meeting.",
+      "Played key roles in the independence movement.",
+      "Honored annually on Martyrs’ Day in Myanmar.",
+      "Represent sacrifice for national freedom.",
+      "Symbolize courage, unity, and patriotism.",
+      "Remain deeply respected figures in Myanmar history.",
+    ],
+
+    image:
+      "https://media-cdn.tripadvisor.com/media/photo-s/0c/b4/90/9f/martyrs-mausoleum-at.jpg",
+    detailed_images: [
+      "https://www.mdn.gov.mm/sites/default/files/articles/Preserving.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/0b/80/93/f9/caption.jpg",
+      "https://www.myanmars.net/images/martyrs_mausoleum.jpg",
+    ],
+
+    Aung_San_Suu_Kyi: {
+      category: "Influential Personalities",
+      title: "Daw Aung San Suu Kyi",
+      subtitle: "Peace & Democracy Leader",
+
+      description:
+        "Daw Aung San Suu Kyi is an internationally recognized leader known for her non-violent struggle for democracy and human rights in Myanmar.",
+
+      points: [
+        "Awarded the Nobel Peace Prize in 1991.",
+        "Leader of Myanmar’s pro-democracy movement.",
+        "Spent years under house arrest for her activism.",
+        "Received the Presidential Medal of Freedom.",
+        "Advocated peaceful resistance and human rights.",
+        "A globally recognized political and social figure.",
+      ],
+
+      image: "/images/suu-kyi.jpg",
+      detailed_images: ["/images/suu-kyi.jpg"],
+    },
+  },
+  Aung_San_Suu_Kyi: {
+    category: "Influential Personalities",
+    title: "Daw Aung San Suu Kyi",
+    subtitle: "Peace & Democracy Leader",
+
+    description:
+      "Daw Aung San Suu Kyi is an internationally recognized leader known for her non-violent struggle for democracy and human rights in Myanmar.",
+
+    points: [
+      "Awarded the Nobel Peace Prize in 1991.",
+      "Leader of Myanmar’s pro-democracy movement.",
+      "Spent years under house arrest for her activism.",
+      "Received the Presidential Medal of Freedom.",
+      "Advocated peaceful resistance and human rights.",
+      "A globally recognized political and social figure.",
+    ],
+
+    image: "https://diplomacybeyond.com/wp-content/uploads/2021/02/image-1.jpg",
+    detailed_images: [
+      "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/03/28/09/win-myint.jpg",
+      "https://cdn.theatlantic.com/thumbor/CgTAP9WCn7a9AhL2WPxnPKufazc=/0x1:1996x1997/1080x1080/media/img/mt/2018/09/RTX5T1H9/original.jpg",
+      "https://cdn.jagonews24.com/media/imgAllNew/BG/2016May/Hasina-Su20160920115200.jpg",
+      "https://i1.wp.com/asiatimes.com/wp-content/uploads/2018/10/India-Myanmar-Narendra-Modi-Aung-San-Suu-Kyi-2018-e1560326028950.jpg?fit=1600%2C1012&ssl=1",
+    ],
+  },
+
+  U_Thant: {
+    category: "Influential Personalities",
+    title: "U Thant",
+    subtitle: "Global Diplomat & UN Leader",
+
+    description:
+      "U Thant was a Myanmar diplomat who served as the Secretary-General of the United Nations, becoming the first Asian to hold the position.",
+
+    points: [
+      "Served as UN Secretary-General from 1961 to 1971.",
+      "First Asian and non-Scandinavian to hold the position.",
+      "Played a key role during global crises like the Cuban Missile Crisis.",
+      "Promoted peace, diplomacy, and international cooperation.",
+      "Served for over 10 years, one of the longest tenures.",
+      "Highly respected global leader from Myanmar.",
+    ],
+
+    image:
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLr7Sm50Jax-6EIhf3-zyl0-l2rFwPPCaOxB0ncPT7pYB0LbQ_CxfhCsW2m_K0InJEHvMU_bBcVIbQRUkuM-40sk9kCd1S-oOPsyE3yDGYGRH_bHv_SMIRw_6UGE9VmH-Owk6VUhrrC5Y/s1600/U+Thant.jpg",
+    detailed_images: [
+      "https://www.the-tls.com/wp-content/uploads/2025/11/u-thant-1970-1040791552.jpg",
+      "https://news.un.org/en/sites/news.un.org.en/files/legacy-news-images/photos/large/2017/January/239122-B25.jpg",
+      "https://bidkit.ams3.digitaloceanspaces.com/23/imgBig/141/173.jpg",
+    ],
+  },
+
+  U_Kyi: {
+    category: "Influential Personalities",
+    title: "U Kyi",
+    subtitle: "Early Robotics Pioneer",
+
+    description:
+      "U Kyi is recognized as an early innovator in robotics in Asia, contributing to technological advancement and inspiring future generations.",
+
+    points: [
+      "Credited with developing one of the first robots in Asia.",
+      "Pioneer in early technological innovation in Myanmar.",
+      "Inspired interest in robotics and engineering.",
+      "Represents the beginning of modern technological development.",
+      "Symbol of innovation and forward-thinking mindset.",
+      "Encourages future generations in science and technology.",
+    ],
+
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwrZZyJqrAmKXmqe--E6Jgh-1Zk1QwCdnZ2A&s",
+    detailed_images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnKSZ4H84gnwHrnfNqOPLisvID1qQiJjBBuQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZKshAQEmBttRRtbjGnapzKF-JclBI4R5Tw&s",
+    ],
+  },
 };
