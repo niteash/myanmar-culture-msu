@@ -11,18 +11,14 @@ const Home = () => {
 
   return (
     <div className="bg-black text-white">
-      {/* 🎥 HERO VIDEO SECTION */}
+      {/* 🖼️ HERO IMAGE SECTION */}
       <div className="relative h-screen w-full overflow-hidden">
-        {/* Video Background */}
-        <video
-          autoPlay
-          loop
-          muted
-          playsInline
+        {/* Background Image */}
+        <img
+          src="/preview.jpeg"
+          alt="Myanmar Culture"
           className="absolute w-full h-full object-cover"
-        >
-          <source src="./MSU.mp4" type="video/mp4" />
-        </video>
+        />
 
         {/* Overlay */}
         <div className="absolute inset-0 bg-black/60 backdrop-blur-[2px]" />
@@ -52,7 +48,6 @@ const Home = () => {
           </div>
         </div>
       </div>
-
       {/* 📚 CONTENT SECTION */}
       <div className="px-6 md:px-16 py-20">
         {Object.entries(grouped).map(([category, items], i) => (
