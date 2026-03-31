@@ -21,7 +21,7 @@ const Home = () => {
         />
 
         {/* Overlay */}
-        <div className="absolute inset-0 bg-black/60 backdrop-blur-[2px]" />
+        <div className="absolute inset-0 bg-black/60 " />
 
         {/* Hero Content */}
         <div className="relative z-10 flex flex-col items-center justify-center h-full text-center px-6">
