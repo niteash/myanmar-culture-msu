@@ -244,57 +244,154 @@ This image shows traditional tools used for creating palm-leaf manuscripts (pe-s
   // ================= MODERN =================
   modern_system: {
     category: "Post-Independence",
-    title: "Modern Education System",
+    title: "Slate Tablet and Pencil",
     subtitle: "Growth of Learning",
     description:
-      "Modern schools, universities, uniforms, and structured learning.",
+      "This image shows a traditional slate board and slate pencil used in Burmese classrooms, allowing students to practice writing and drawing in a simple, reusable, and cost-effective way.",
+    points: [
+      "A classic slate tablet paired with a slate pencil used in traditional Burmese education.",
+      "Commonly used during the British colonial era and into the mid-20th century.",
+      "Made of a smooth dark slate surface with a wooden frame for durability.",
+      "Students wrote using a soft slate pencil that produced white or gray marks.",
+      "Used for practicing writing, arithmetic, drawing, and spelling.",
+      "The surface could be easily cleaned using cloth, water, or natural materials.",
+      "Reusable design made it economical and environmentally friendly.",
+      "Widely used in schools where resources were limited.",
+      "Represents early classroom learning methods in Myanmar.",
+    ],
     image:
-      "https://upload.wikimedia.org/wikipedia/commons/5/59/School_Myanmar.jpg",
+      "https://www.townsends.us/cdn/shop/products/s3168IMG_0853_600x.jpg?v=1711979679",
+
+    detailed_images: [
+      "/images/slate.png",
+      "https://t3.ftcdn.net/jpg/06/85/69/46/360_F_685694671_AOXjFbVZ5cRyUOXbfwaUPFmzMHVFW5jZ.jpg",
+      "https://m.media-amazon.com/images/I/612doC-yXvL.jpg",
+    ],
   },
 
   morality: {
     category: "Post-Independence",
     title: "Morality & Discipline",
     subtitle: "Core Values",
-    description: "Education emphasizes discipline and moral development.",
+    description:
+      "This image represents two important flags in Myanmar: the 1948 Independence Flag symbolizing ethnic unity, and the Buddhist Flag representing spiritual values through five sacred colors.",
+    points: [
+      "The 1948 Independence Flag of Burma featured one large white star surrounded by five smaller stars.",
+      "The five small stars represented unity among major ethnic groups: Burman, Karen, Shan, Kachin, and Chin.",
+      "The flag had a red background with a blue canton in the top-left corner.",
+      "It was the national flag from 1948 to 1974 and is still a symbol of democracy.",
+      "The Buddhist Flag (Sasana Flag) is widely used across Myanmar.",
+      "It features five main colors: blue, yellow, red, white, and orange (sometimes pink).",
+      "These colors represent the aura of the Buddha at enlightenment.",
+      "Blue symbolizes compassion and kindness.",
+      "Yellow represents the Middle Way.",
+      "Red stands for practice and spiritual strength.",
+      "White represents purity and truth of the Dhamma.",
+      "Orange (or pink) symbolizes wisdom and teachings of the Buddha.",
+    ],
     image:
-      "https://upload.wikimedia.org/wikipedia/commons/5/59/School_Myanmar.jpg",
+      "https://flagsdb.com/upload/media/default/0001/01/6ef1a42786fd0319676ef53d6a8a4dc1cf0076c8.png",
+    detailed_images: [
+      "/images/Myanmar.jpg",
+      "https://flagsdb.com/upload/media/default/0001/01/6ef1a42786fd0319676ef53d6a8a4dc1cf0076c8.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIy_pmEXptMjDAK9RDOhEHY7c8N6UxuMbOjw&s",
+    ],
   },
 
   education: {
     category: "Post-Independence",
-    title: "Education",
+    title: "School Uniforms for boys and girls",
     subtitle: "Foundation",
-    description: "Education is the key to national progress.",
+    description:
+      "The Myanmar 'White-Green' school uniform is a standardized dress worn by students, symbolizing purity, calmness, equality, and national identity.",
+    points: [
+      "Known as the 'White-Green' uniform, worn in public schools across Myanmar.",
+      "Mandatory for students from kindergarten to high school.",
+      "Introduced as a standard dress code in 1966.",
+      "White color represents purity and discipline.",
+      "Green color symbolizes calmness and peace.",
+      "Promotes equality by reducing visible social and economic differences.",
+      "Creates a sense of unity among students.",
+      "Reflects cultural values of modesty and simplicity.",
+      "Represents national identity and shared educational experience.",
+    ],
     image:
-      "https://upload.wikimedia.org/wikipedia/commons/5/59/School_Myanmar.jpg",
+      "https://media.licdn.com/dms/image/v2/C5612AQHCobR6xsb6dw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1588661285153?e=2147483647&v=beta&t=VCLtPw_4-m8K7MPPEhouS9cM5fZt_XBo1yDnrDO1iXA",
+    detailed_images: [
+      "https://media.istockphoto.com/id/143176419/photo/lets-go-to-school.jpg?s=612x612&w=0&k=20&c=7pFJx141uBiz6n2T1K_FV_hIRDrYpDOnzmp7hiUlCAg=",
+      "https://img2.chinadaily.com.cn/images/202001/16/5e1fbcdea3101282064c533b.jpeg",
+      "https://www.globaltimes.cn/Portals/0/attachment/2011/98943dd8-a55e-492a-8ff4-b1aedeaf958e.jpg",
+    ],
   },
 
   // ================= AI =================
   ai_brain: {
     category: "AI Learning",
-    title: "Human-AI Brain",
+    title: "Young Innovators Of Myanmar",
     subtitle: "Future Learning",
-    description: "AI enhances human intelligence and education.",
-    image:
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Artificial_intelligence.jpg",
+    description:
+      "A Myanmar student team won first prize at an international robotics competition with an AI-powered search and rescue robot designed for disaster response.",
+    points: [
+      "Team 'We Are Genius Myanmar' won first prize at the World Robot Olympiad Asia Pacific Open Championship.",
+      "The competition was held in the Philippines from 19 to 21 September.",
+      "The team developed an AI-powered search and rescue robot vehicle.",
+      "The robot uses autonomous navigation to operate without human control.",
+      "Designed to enter disaster-affected areas where human access is difficult.",
+      "Helps in search and rescue operations during natural disasters.",
+      "Demonstrates innovation and practical use of AI in real-world situations.",
+      "Team members include Moe Pyae Sone Kyaw (11), Kyaw Bhone Khant Zaw (11), and Nyan Koe (12).",
+      "Represents the growing potential of young innovators in Myanmar.",
+      "Highlights Myanmar’s progress in robotics and AI education.",
+    ],
+    image: "/images/young1.png",
+    detailed_images: ["/images/young1.png", "/images/young2-2.png"],
   },
 
   online_learning: {
     category: "AI Learning",
     title: "Online Learning",
     subtitle: "Global Access",
-    description: "Students learn through digital platforms and AI translation.",
-    image:
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Artificial_intelligence.jpg",
+    description:
+      "Myanmar is embracing artificial intelligence as a tool for innovation, development, and inclusive growth, supported by national strategies and regional collaboration.",
+    points: [
+      "Myanmar is adopting AI to drive innovation and national development.",
+      "AI is seen as a key tool for inclusive growth and future opportunities.",
+      "The Ministry of Science and Technology is leading AI strategy development.",
+      "A national AI policy is being drafted to guide implementation.",
+      "Focus areas include education, development sectors, and public awareness.",
+      "Promotes ethical and responsible use of artificial intelligence.",
+      "Emphasis on building skilled human resources in AI.",
+      "Encourages international cooperation and partnerships.",
+      "Aligns with ASEAN frameworks on AI ethics and governance.",
+      "Supports sustainable and long-term AI ecosystem growth in Myanmar.",
+    ],
+    image: "https://www.ilbcedu.com/wp-content/uploads/2018/07/pre-com.jpg",
+    detailed_images: [
+      "https://www.globalgiving.org/pfil/43162/pict_large.jpg",
+      "https://www.infoans.org/media/k2/items/cache/e4f8cbf52d42e2ebd0b31e2bb395c29a_XL.jpg",
+      "https://www.mdn.gov.mm/sites/default/files/articles/Free%20computer%20course%20opens%20in%20Naungcho%20Tsp..jpg",
+    ],
   },
 
   robotics: {
     category: "AI Learning",
     title: "Robotics",
     subtitle: "Innovation",
-    description: "Students build robots and compete globally.",
+    description:
+      "Students in Myanmar participate in the World Robot Olympiad 2024, showcasing their skills in robotics, innovation, and teamwork.",
+    points: [
+      "Students are actively building and programming robots during the competition.",
+      "Part of the World Robot Olympiad (WRO) 2024 held in Yangon, Myanmar.",
+      "Encourages innovation, creativity, and problem-solving skills.",
+      "Provides hands-on experience in robotics and artificial intelligence.",
+      "Promotes teamwork and collaboration among young learners.",
+      "Helps students apply technical knowledge in real-world challenges.",
+      "Supports the growth of STEM education in Myanmar.",
+      "Highlights increasing interest in robotics among youth.",
+      "Prepares students for future careers in technology and engineering.",
+    ],
     image:
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Artificial_intelligence.jpg",
+      "https://www.mdn.gov.mm/sites/default/files/articles/KHP_0005-72-1024x576.jpg",
+    detailed_images: ["/images/young2.png", "/images/young3.png"],
   },
 };
